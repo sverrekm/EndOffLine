@@ -4,6 +4,7 @@
     "version": "0.0.1",
     "dependencies": {
         "node-red-dashboard": "^3.6.5",
+        "node-red-contrib-ui-led": "0.4.11",
         "node-red-node-serialport": "^2.0.3",
         "node-red-contrib-postgresql": "^0.14.2",
         "@wago/node-red-io-api": "1.0.4"
