@@ -61,6 +61,8 @@ The following Node-RED nodes are required for the project:
 
 node-red-dashboard
 
+node-red-contrib-ui-led
+
 node-red-contrib-postgresql
 
 node-red-node-serialport
